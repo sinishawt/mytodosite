@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt text](https://github.com/sinishawt/mytodosite/blob/master/todo2.JPG)
+![alt text](https://github.com/sinishawt/mytodosite/blob/master/todo1.JPG)
+
 ## Available Scripts
 
 In the project directory, you can run:
